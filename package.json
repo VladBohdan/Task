@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "emailjs": "latest",
+    "emailjs-com": "^2.4.1",
+    "milsymbol": "^2.0.0"
+  }
+}
